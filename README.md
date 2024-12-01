@@ -1,2 +1,2 @@
-# github-hw
-git, github homework
+# GitHub homework
+This repository contains Git, GitHub homework
